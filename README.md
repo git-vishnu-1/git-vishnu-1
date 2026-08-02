@@ -1,43 +1,27 @@
-<div align="center">
-
-# Hi 👋, I'm Vishnu Manoj
-### A passionate Web Developer from Kerala, India
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=61DAFB&center=true&vCenter=true&width=500&lines=Hi+%F0%9F%90%8B%2C+I'm+Vishnu+Manoj!;Web+Developer+%F0%9F%92%BB;Crafting+Clean+UIs+%F0%9F%8E%A8;Frontend+Enthusiast+%F0%9F%9A%80" alt="Typing SVG" />
+</h1>
 
 <p align="center">
-  <a href="https://vishnumanoj.vercel.app/">🌐 Portfolio</a>&nbsp;&nbsp;&bull;&nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/vishnu-manoj-52375b2a1">💼 LinkedIn</a>&nbsp;&nbsp;&bull;&nbsp;&nbsp;
-  <a href="mailto:mastershifu0990@gmail.com">✉️ Email</a>
+  <a href="https://vishnumanoj.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/vishnu-manoj-52375b2a1"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:mastershifu0990@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://discordapp.com/users/gtsmokey"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" /></a>
 </p>
 
-</div>
-
----
-
-### 🚀 About Me
-- 🌱 I’m currently sharpening my frontend fundamentals and modern JavaScript.
-- 👨‍💻 Most of my work involves building clean, responsive web applications and interfaces.
-- 🎯 Goal: Writing maintainable code and improving user experience.
-
----
-
-### 🛠️ Languages and Tools
-
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" width="40" height="40"/>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24,25,26&height=120&section=header"/>
 </p>
 
 ---
 
-### 📊 GitHub Stats
+### 💫 About Me
 
-<p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=git-vishnu-1&show_icons=true&theme=radical" alt="Vishnu's GitHub stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=git-vishnu-1&layout=compact&theme=radical" alt="Top Languages" />
-</p>
+```javascript
+const vishnu = {
+    code: ["JavaScript", "HTML5", "CSS3"],
+    architecture: ["Responsive Design", "DOM Manipulation", "Clean UI"],
+    currentFocus: "Advanced Frontend Frameworks & Performance",
+    location: "Kerala, India 🇮🇳",
+    funFact: "Obsessed with pixel-perfect layouts and smooth user experiences."
+};
